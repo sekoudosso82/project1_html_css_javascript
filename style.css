@@ -1,0 +1,29 @@
+
+body {
+    height: 100%;
+}
+.menuDiv {
+    width: 20%;
+    border: 2px solid black;
+}
+div.menuDiv {
+    min-height: 500px;
+    background: green;
+    float: left;
+    
+}
+.Fahrenheit {
+    margin: 0 auto;
+
+    width: 50%;
+    /* margin: 0 25%; */
+    background: grey;
+}
+
+.mainDiv {
+    width: 79%;
+    float: left;
+    background: grey;
+    margin: 0 2px;
+    border: 1px solid black;
+}
